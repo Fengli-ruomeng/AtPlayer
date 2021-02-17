@@ -1,0 +1,8 @@
+name: NewAT
+version: 1.0
+main: douyimian.fengli.Fengli
+api-version: 1.16
+commands:
+  at:
+    description: help
+    usage: /at
